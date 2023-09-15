@@ -11,7 +11,24 @@ Three seperate datasets were used for this analysis to gain insight into which c
 
 ### Methods
 ***
+#### Data
 The data analysed came from IMDb website. IMDb (an acronym for Internet Movie Database) is a popular worldwide online database of infomation relating to all movies, television programs, video games and streaming content online. I used 3 files from IMDb to answer the question of which genres were most successful, mainly focusing on the Domestic and Foreign Gross sales along with average ratings given and number of votes received.
+
+After checking the information on each table to see column names and null values, I joined the two datasets, movie_basics and movie_ratings together using the 'movie_id' column as it was a unique identifier creating a new dataframe called df. I then joined the dataset movie_gross with the new dataframe using the title as the unique identifier, creating a combined new dataset called merged_df.
+
+Checking the information on the new dataframe merged_df, I then cleaned up the null values by removing them.
+
+## Evaluation
+#### Results
+3 of the above graphs, Domestic Gross, Foreign Gross and Number of Votes clearly show that Adventure, Action and Sci-Fi combination are most successful in Domestic and Foreign Gross Sales. Its clear also to see that the adventure genre is popular across the board especially when elements of animation, action and or comedy are also included.
+
+The graph showing Top 20 Average Ratings shows Adventure as a well received genre.
+
+To improve confidence in the results next time I would:-
+
+Include the movie classification This could have narrowed down the target audience the most successful movies were aimed at i.e PG etc.
+
+Broken the data into the relevant years to see if there are changes year by year in the top genres of movies, see if audience tastes change over time.
 
 ### Conclusions
 
