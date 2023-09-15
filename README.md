@@ -2,8 +2,6 @@
 
 ![director_shot](https://github.com/101Prudencia-py/Microsoft-Movie-Analysis/assets/141912223/b6c21112-d25d-488f-86d6-5ea0804534c2)
 
-https://github.com/101Prudencia-py/Microsoft-Movie-Analysis/blob/main/Presentation.pdf.pdf
-
 ## Overview
 ***
 ###### Business Problem
@@ -43,6 +41,9 @@ This analysis leads to three recommendations regarding types of movies that are 
 **Movies with the genre combination Action, Adventure & Sci-Fi** topped the leaderboard in both Domestic and Foreign Gross Sales, it is also a genre that has been voted for the most,this combination is obviously a hit at the box office worldwide, make this the first type of movie to produce for success. **Movies with Adventure, Animation and Comedy** were the next most successful in Foreign Gross and second in domestic gross, use this combination as the next or alternative type of movie to produce. Movies in the top 20 number of votes yielded slighly different results but Action, Adventure and Sci-Fi combination did come out 1st still. Adventure genre seems constant in all the above graphs so must be a key element of any movie to be produced. Questions to consider:
 
 Limitations-Could the same movie be classified into different genres by different audiences? Who classifies the genres for each movie? Can the classification of genres be improved to provide a more benchmark approach? Future analysis could include the movie classification ie PG, MA etc to see which audience the most successful movies were made for.
+
+https://github.com/101Prudencia-py/Microsoft-Movie-Analysis/blob/main/Presentation.pdf.pdf
+
 
 
 ![Microsoft-Movies-and-TV-Apps](https://github.com/101Prudencia-py/Microsoft-Movie-Analysis/assets/141912223/51f8d50b-f2a1-4911-ade7-0de4ebe4bcc8)
