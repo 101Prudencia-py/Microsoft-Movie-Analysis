@@ -2,6 +2,8 @@
 
 ![director_shot](https://github.com/101Prudencia-py/Microsoft-Movie-Analysis/assets/141912223/b6c21112-d25d-488f-86d6-5ea0804534c2)
 
+https://github.com/101Prudencia-py/Microsoft-Movie-Analysis/blob/main/Presentation.pdf.pdf
+
 ## Overview
 ***
 ###### Business Problem
