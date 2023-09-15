@@ -1,5 +1,7 @@
 # Microsoft-Movie-Analysis
 
+![director_shot](https://github.com/101Prudencia-py/Microsoft-Movie-Analysis/assets/141912223/b6c21112-d25d-488f-86d6-5ea0804534c2)
+
 ## Overview
 ***
 ###### Business Problem
@@ -19,6 +21,7 @@ After checking the information on each table to see column names and null values
 Checking the information on the new dataframe merged_df, I then cleaned up the null values by removing them.
 
 ## Evaluation
+***
 #### Results
 3 of the above graphs, Domestic Gross, Foreign Gross and Number of Votes clearly show that Adventure, Action and Sci-Fi combination are most successful in Domestic and Foreign Gross Sales. Its clear also to see that the adventure genre is popular across the board especially when elements of animation, action and or comedy are also included.
 
@@ -31,6 +34,7 @@ Include the movie classification This could have narrowed down the target audien
 Broken the data into the relevant years to see if there are changes year by year in the top genres of movies, see if audience tastes change over time.
 
 ### Conclusions
+***
 
 This analysis leads to three recommendations regarding types of movies that are successful:-
 
